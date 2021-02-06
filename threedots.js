@@ -10,5 +10,6 @@ const minister = 450;
 const sochib = 250;
 const takaPoisa = [650, 450, 250];
 const maximum = Math.max(...takaPoisa);
+// const maximum = Math.max(business, minister, sochib);
 console.log(maximum);
 console.log(allAges);
